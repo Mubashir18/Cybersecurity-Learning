@@ -13,6 +13,9 @@ Capture and analyze network traffic using Wireshark.
 - Multiple TCP handshake packets
 - HTTP packets showing GET requests
 
+## Wireshark Capture
+https://github.com/Mubashir18/Cybersecurity-Learning/blob/659d310edbbcd5d3684df4393fa5125233296c52/Week%201%20-%20Cybersecurity%20Basics/Wireshark_Capture.pcapng
+
 ## Screenshot
 https://github.com/Mubashir18/Cybersecurity-Learning/blob/010c1163210a9d1dd4f71554309d8bd6e022153f/Screenshot%202025-07-31%20015724.png
 https://github.com/Mubashir18/Cybersecurity-Learning/blob/6171a806f70097f83a54f1aa503e482cc997548f/Screenshot%202025-07-31%20020502.png
