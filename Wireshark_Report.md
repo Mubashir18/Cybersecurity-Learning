@@ -14,7 +14,8 @@ Capture and analyze network traffic using Wireshark.
 - HTTP packets showing GET requests
 
 ## Screenshot
-![Wireshark Capture](screenshot.png)
+https://github.com/Mubashir18/Cybersecurity-Learning/blob/010c1163210a9d1dd4f71554309d8bd6e022153f/Screenshot%202025-07-31%20015724.png
+
 
 
 ## Tools
