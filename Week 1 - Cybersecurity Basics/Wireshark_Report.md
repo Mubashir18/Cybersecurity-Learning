@@ -1,4 +1,4 @@
-# Wireshark Network Capture – Week 2 Report
+# Wireshark Network Capture – Week 1 Report
 
 ## Objective
 Capture and analyze network traffic using Wireshark.
